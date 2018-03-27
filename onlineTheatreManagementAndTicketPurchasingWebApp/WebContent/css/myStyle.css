@@ -1,0 +1,20 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	background-color: lightgray
+}
+
+h1{
+	color: green; 
+	text-align: center;
+}
+
+.right {
+	position: absolute;
+	right: 50px;
+}
+
+.left {
+	position: absolute;
+	left: 50px;
+}
