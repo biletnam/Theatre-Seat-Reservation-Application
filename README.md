@@ -11,4 +11,4 @@
 * Javascript
 * MySQL
 
- 
+All work is original and I will not be responsible if the contents are copied.
