@@ -2,7 +2,8 @@
 
 ## Getting Started
 * Clone the repository using `git clone`
-* Copy the folder and run using an IDE is recommended
+* Copy the folder and running using an IDE is recommended
+* Programmer's manual, User's and Owner's manual is included
 
 ## Technologies
 * Java
@@ -10,4 +11,4 @@
 * Javascript
 * MySQL
 
-## Programmer's manual, User's and Owner's manual is included 
+ 
