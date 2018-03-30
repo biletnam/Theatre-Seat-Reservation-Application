@@ -4,7 +4,7 @@ This is an online theatre management and ticket purchasing web application that 
 ## Getting Started
 * Clone the repository using `git clone`
 * Copy the folder and running using an IDE is recommended
-* Programmer's manual, User's and Owner's manual is included
+* Programmer's manual, User's (both Customers and Theater Owners) manual is included
 
 ## Technologies
 * Java
